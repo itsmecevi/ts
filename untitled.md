@@ -41,7 +41,25 @@ Skript Seite 2-4 bis Seite 2-5, R-skript Seite 2-7 / Skript-bsp.R: \#White Noise
 
 ![](.gitbook/assets/5-wn.PNG)
 
-**\#3-Gausssche WN:**
+**\#3-Gausssche WN: 2. punkte: Denn Gauss selbst ist schon Unabhängig**
+
+![](.gitbook/assets/6-gauss-wn.PNG)
+
+**\#4-Random Walk: **kumulierte WN
+
+Skript Seite 2-10 & 2-11, R-skript Seite 2-12 / Skript-bsp.R \#Random Walk
 
 
+
+![](.gitbook/assets/7-rw.PNG)
+
+anderen Schreibweise von RW
+
+----1
+
+![](.gitbook/assets/8-rw2.PNG)
+
+----2
+
+![](.gitbook/assets/9-rw3.PNG)
 
