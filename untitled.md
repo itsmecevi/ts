@@ -11,7 +11,7 @@
 
 ![](.gitbook/assets/1-zeitreihe.PNG)
 
-**Stochastischer Prozess**: Skript Seite 2-1
+### **Stochastischer Prozess**: Skript Seite 2-1
 
 ![](.gitbook/assets/2-stochpro.PNG)
 
