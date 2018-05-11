@@ -1,6 +1,6 @@
 # 1. Einführung und Grundlagen
 
-Legende:
+## Legende:
 
 * ZV:= Zufallsvariablen
 * WN:= White Noise
@@ -40,6 +40,8 @@ Zeitreihe mit stoch.prozesse: einen folgen, die Zufallsvariablen sind
 Skript Seite 2-4 bis Seite 2-5, R-skript Seite 2-7 / Skript-bsp.R: \#White Noise
 
 ![](.gitbook/assets/5-wn.PNG)
+
+**\#3-Gausssche WN:**
 
 
 
