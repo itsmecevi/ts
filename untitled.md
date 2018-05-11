@@ -63,3 +63,5 @@ anderen Schreibweise von RW
 
 ![](.gitbook/assets/9-rw3.PNG)
 
+### Wichtige Kennzahlen von Xt \(ZV von Folgen\):
+
