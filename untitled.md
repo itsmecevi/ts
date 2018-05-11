@@ -1,8 +1,45 @@
 # 1. Einführung und Grundlagen
 
-**Zeitreihe**: Skript Seite 1-1, bsp Seite. 1-2 bis Seite. 1-18, R-skript bsp Seite.8 / Skript-bsp.R line 1-25
+Legende:
+
+* ZV:= Zufallsvariablen
+* WN:= White Noise
+* EW:= Erwartungswert
+* Var:= Varianz
+
+### **Zeitreihe**: Skript Seite 1-1, bsp Seite. 1-2 bis Seite. 1-18, R-skript bsp Seite.8 / Skript-bsp.R \#Zeitreihe einführung
 
 ![](.gitbook/assets/1-zeitreihe.PNG)
 
-**Stochastischer Prozess**: 
+**Stochastischer Prozess**: Skript Seite 2-1
+
+![](.gitbook/assets/2-stochpro.PNG)
+
+und **zeireihe: **Skript Seite 2-1
+
+![](.gitbook/assets/3-zeitreihe.PNG)
+
+{% hint style="info" %}
+Ein Zeitreihe: einen folgen
+
+Ein stoch.prozesse: zeitlich geordnete Zufallsvariable in Zufallsprozesse
+
+Zeitreihe mit stoch.prozesse: einen folgen, die Zufallsvariablen sind
+{% endhint %}
+
+
+
+### **Beispiel stoch.prozesse: Skript, Seite 2-2 bis Seite 2-12 **
+
+**\#1-Gaußprozesse**: die ZV von folgen \(Zeitreihen\) sind [normalverteilt ](https://de.wikipedia.org/wiki/Normalverteilung)oder die Zeitreihe sind normalverteilt. 
+
+![](.gitbook/assets/4-gauss-prozesse.PNG)
+
+**\#2-White Noise**: die iid ZV von folgen \(Zeitreihen\) hat endlichen EW und Var. Oft sind WN zentriert sind, also EW=0 ist. Notation für WN : \(εt\) ∼ WN\(µ,σ2\). 
+
+Skript Seite 2-4 bis Seite 2-5, R-skript Seite 2-7 / Skript-bsp.R: \#White Noise
+
+![](.gitbook/assets/5-wn.PNG)
+
+
 
