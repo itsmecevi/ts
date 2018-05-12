@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Alle Rechte Vorbehalten](README.md)
-* [1. Einführung und Grundlagen](untitled.md)
+* [1.a Einführung und Grundlagen](untitled.md)
+* 1.b Einführung und Grundlagen
 * 2. Klassische Zeitreihenanalyse
 * [Folien-full](folien-full.md)
 * Zusammenfassung notizen
