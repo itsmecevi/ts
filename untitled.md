@@ -103,5 +103,31 @@ Korrelation: Standardisierte Kovarianz
 
 ![](.gitbook/assets/15-kovarianzen.PNG)
 
+\#Bedeutung der Autokorrelation 
 
+![](.gitbook/assets/16-bedeutung-autokovarianz.PNG)
+
+\#Wichtige Kennzahlen: Beispiele WN
+
+![](.gitbook/assets/17-besp-wn.PNG)
+
+\#Wichtige Kennzahlen: Beispiele RW ohne drift
+
+![](.gitbook/assets/18-bsp-rw-ohne-drift.PNG)
+
+\#Wichtige Kennzahlen: Beispiele Signal + rauschen
+
+![](.gitbook/assets/19-besp-signal-rauschen.PNG)
+
+\#Beispiele stochastischer Prozesse: Linear prozesse1
+
+![](.gitbook/assets/20-linear-prozesse1.PNG)
+
+\#Beispiele stochastischer Prozesse: Linear prozesse2
+
+![](.gitbook/assets/21-linear-prozesse2.PNG)
+
+\#Beispiele stochastischer Prozesse: Linear prozesse3
+
+![](.gitbook/assets/22-linear-prozesse3.PNG)
 
