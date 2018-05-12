@@ -91,5 +91,9 @@ Korrelation: Standardisierte Kovarianz
 
 ![](.gitbook/assets/13-stationaer.PNG)
 
+![](.gitbook/assets/14-stationaer2.PNG)
 
+\#Kurze Erinnerung: Kovarianzen
+
+![](.gitbook/assets/15-kovarianzen.PNG)
 
