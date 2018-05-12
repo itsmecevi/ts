@@ -65,3 +65,21 @@ anderen Schreibweise von RW
 
 ### Wichtige Kennzahlen von Xt \(ZV von Folgen\):
 
+\#EW und Var
+
+![](.gitbook/assets/10-ew-var.PNG)
+
+\#Kovarianz und Korrelation
+
+Kovarianz: Lineare zusammenhäng von X und Y
+
+Korrelation: Standardisierte Kovarianz
+
+
+
+\# Autokovarianzfunktion 
+
+![](.gitbook/assets/11-autokovarianz.PNG)
+
+
+
