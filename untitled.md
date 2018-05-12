@@ -87,3 +87,9 @@ Korrelation: Standardisierte Kovarianz
 
 ![](.gitbook/assets/12-autokorrelation.PNG)
 
+\#Stationär
+
+![](.gitbook/assets/13-stationaer.PNG)
+
+
+
