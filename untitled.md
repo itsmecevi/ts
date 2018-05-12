@@ -7,11 +7,15 @@
 * EW:= Erwartungswert
 * Var:= Varianz
 
-### **Zeitreihe**: Skript Seite 1-1, bsp Seite. 1-2 bis Seite. 1-18, R-skript bsp Seite.8 / Skript-bsp.R \#Zeitreihe einführung
+## **Zeitreihe**: 
+
+Skript Seite 1-1, bsp Seite. 1-2 bis Seite. 1-18, R-skript bsp Seite.8 / Skript-bsp.R \#Zeitreihe einführung
 
 ![](.gitbook/assets/1-zeitreihe.PNG)
 
-### **Stochastischer Prozess**: Skript Seite 2-1
+## **Stochastischer Prozess**: 
+
+Skript Seite 2-1
 
 ![](.gitbook/assets/2-stochpro.PNG)
 
@@ -29,7 +33,9 @@ Zeitreihe mit stoch.prozesse: einen folgen, die Zufallsvariablen sind
 
 
 
-### **Beispiel stoch.prozesse: Skript, Seite 2-2 bis Seite 2-12 **
+## **Beispiel stoch.prozesse: **
+
+**Skript, Seite 2-2 bis Seite 2-12 **
 
 **\#1-Gaußprozesse**: die ZV von folgen \(Zeitreihen\) sind [normalverteilt ](https://de.wikipedia.org/wiki/Normalverteilung)oder die Zeitreihe sind normalverteilt. 
 
@@ -63,7 +69,7 @@ anderen Schreibweise von RW
 
 ![](.gitbook/assets/9-rw3.PNG)
 
-### Wichtige Kennzahlen von Xt \(ZV von Folgen\):
+## Wichtige Kennzahlen von Xt \(ZV von Folgen\):
 
 \#EW und Var
 
@@ -96,4 +102,6 @@ Korrelation: Standardisierte Kovarianz
 \#Kurze Erinnerung: Kovarianzen
 
 ![](.gitbook/assets/15-kovarianzen.PNG)
+
+
 
