@@ -3,7 +3,7 @@
 * [Alle Rechte Vorbehalten](README.md)
 * [1.a Einführung und Grundlagen](untitled.md)
 * [1.b Einführung und Grundlagen](1.b-einfuehrung-und-grundlagen.md)
-* 2. Klassische Zeitreihenanalyse
+* [2. Klassische Zeitreihenanalyse](2.-klassische-zeitreihenanalyse.md)
 * 2.a Trendbestimmung
 * [Folien-full](folien-full.md)
 * Zusammenfassung notizen
