@@ -75,11 +75,15 @@ Kovarianz: Lineare zusammenhäng von X und Y
 
 Korrelation: Standardisierte Kovarianz
 
+![Aus Unabh&#xE4;ngig kommt dann Unkorreliert](.gitbook/assets/a-kovarianz-korrelations%20%281%29.PNG)
 
 
-\# Autokovarianzfunktion 
+
+\#Autokovarianzfunktion 
 
 ![](.gitbook/assets/11-autokovarianz.PNG)
 
+\#Autokorrelationsfunktion
 
+![](.gitbook/assets/12-autokorrelation.PNG)
 
