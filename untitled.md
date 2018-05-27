@@ -19,7 +19,7 @@ Skript Seite 2-1
 
 ![](.gitbook/assets/2-stochpro.PNG)
 
-und **zeireihe: **Skript Seite 2-1
+und **zeireihe:** Skript Seite 2-1
 
 ![](.gitbook/assets/3-zeitreihe.PNG)
 
@@ -33,9 +33,9 @@ Zeitreihe mit stoch.prozesse: einen folgen, die Zufallsvariablen sind
 
 
 
-## **Beispiel stoch.prozesse: **
+## **Beispiel stoch.prozesse:** 
 
-**Skript, Seite 2-2 bis Seite 2-12 **
+**Skript, Seite 2-2 bis Seite 2-12** 
 
 **\#1-Gaußprozesse**: die ZV von folgen \(Zeitreihen\) sind [normalverteilt ](https://de.wikipedia.org/wiki/Normalverteilung)oder die Zeitreihe sind normalverteilt. 
 
@@ -51,7 +51,21 @@ Skript Seite 2-4 bis Seite 2-5, R-skript Seite 2-7 / Skript-bsp.R: \#White Noise
 
 ![](.gitbook/assets/6-gauss-wn.PNG)
 
-**\#4-Random Walk: **kumulierte WN
+{% hint style="info" %}
+Fazit:
+
+\#Gaußprozess: Die Folge sind Normalverteilt
+
+\#Strikes WN: Endlichen EW und Endlichen Var, Oft: EW=0
+
+\#Schwach WN: Gleichen Endlichen EW und Var, Unkorreliert
+
+\#Ein Strikes WN ist automatisch Schwach WN. siehe definition
+
+\#Gaussche WN: Strikes WN==Schwach WN
+{% endhint %}
+
+**\#4-Random Walk:** kumulierte WN
 
 Skript Seite 2-10 & 2-11, R-skript Seite 2-12 / Skript-bsp.R \#Random Walk
 
