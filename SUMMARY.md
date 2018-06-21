@@ -6,6 +6,7 @@
 * [2. Klassische Zeitreihenanalyse](2.-klassische-zeitreihenanalyse.md)
 * [2.a Trendbestimmung](2.a-trendbestimmung.md)
 * [2.b Zeitreihen durch Filter \(lokale Trendbestimmung\)](2.b-zeitreihen-durch-filter-lokale-trendbestimmung.md)
+* [2.c Saisonbereinigung](2.c-saisonbereinigung.md)
 * [Folien-full](folien-full.md)
 * [Zusammenfassung notizen](untitled-1.md)
 * [Übung+lösung](uebung+loesung.md)
