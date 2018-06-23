@@ -16,4 +16,7 @@
   * [blatt1\_aufgabe5](untitled-2/blatt1_aufgabe5.md)
   * [blatt1\_aufgabe6](untitled-2/untitled.md)
   * [blatt2\_aufgabe3](untitled-2/blatt2_aufgabe3.md)
+  * [blatt3\_aufgabe4](untitled-2/blatt3_aufgabe4.md)
+  * [blatt3\_aufgabe5](untitled-2/blatt3_aufgabe5.md)
+  * [blatt3\_aufgabe6](untitled-2/blatt3_aufgabe6.md)
 
