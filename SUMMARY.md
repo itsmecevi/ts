@@ -8,6 +8,7 @@
 * [2.b Zeitreihen durch Filter \(lokale Trendbestimmung\)](2.b-zeitreihen-durch-filter-lokale-trendbestimmung.md)
 * [2.c Saisonbereinigung](2.c-saisonbereinigung.md)
 * [2.d Prognosen, exponentielles Glätten](2.-d-prognosen-exponentielles-glaetten.md)
+* [3.a Autoregressive \(AR\) Modelle](3.a-autoregressive-ar-modelle.md)
 * [Folien-full](folien-full.md)
 * [Zusammenfassung notizen](untitled-1.md)
 * [Übung+lösung](uebung+loesung.md)
