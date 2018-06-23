@@ -12,8 +12,10 @@ d\) mit Trend und Saison
 
 auf eine der Reihen
 
-* • Unfalltote in USA 1973-1978 \(USAccDeaths\)
-* • Geburten in USA 1948-1979 \(births\)
+* • Unfalltote in USA 1973-1978 \("USAccDeaths"\)
+* • Geburten in USA 1948-1979 \("births"\)
 
 Erstellen Sie Vorhersagen, plotten und kommentieren Sie Ihre Ergebnisse.
+
+[Lösung: 3uebungsblatt\_5](https://trello.com/c/uq8xFbUB/25-3uebungsblatt5)
 

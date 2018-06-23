@@ -6,3 +6,5 @@ rock=scan\("[http://robjhyndman.com/tsdldata/roberts/skirts.dat",skip=5](http://
 
 Entscheiden Sie, ob Sie exponentielles Glätten mit oder ohne Trend und/oder Saison anwenden. Plotten Sie Ihre Ergebnisse, machen Sie eine Vorhersage und untersuchen Sie die Residuen auf "Whiteness".
 
+[Lösung: 3uebungsblatt\_6](https://trello.com/c/T5h4eVsY/26-3uebungsblatt6)
+
