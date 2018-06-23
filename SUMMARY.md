@@ -7,7 +7,7 @@
 * [2.a Trendbestimmung](2.a-trendbestimmung.md)
 * [2.b Zeitreihen durch Filter \(lokale Trendbestimmung\)](2.b-zeitreihen-durch-filter-lokale-trendbestimmung.md)
 * [2.c Saisonbereinigung](2.c-saisonbereinigung.md)
-* [2. d Prognosen, exponentielles Glätten](2.-d-prognosen-exponentielles-glaetten.md)
+* [2.d Prognosen, exponentielles Glätten](2.-d-prognosen-exponentielles-glaetten.md)
 * [Folien-full](folien-full.md)
 * [Zusammenfassung notizen](untitled-1.md)
 * [Übung+lösung](uebung+loesung.md)
