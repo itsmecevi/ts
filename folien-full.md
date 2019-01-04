@@ -8,7 +8,6 @@
 * [Folie 2](https://github.com/itsmecevi/ts-folie2/blob/master/Folien_2.pdf)
 * [Folie 3](https://github.com/itsmecevi/ts-folie3/blob/master/Folien_3.pdf)
 * Folie 4
-* Folie 5
 
 
 
