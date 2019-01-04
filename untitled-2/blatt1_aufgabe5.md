@@ -2,6 +2,12 @@
 
 ![](../.gitbook/assets/ue5.PNG)
 
+Gute der Anpassung ACF:
+
+![](../.gitbook/assets/acf.PNG)
+
+
+
 ```r
 install.packages("quantmod")
 install.packages("astsa")
