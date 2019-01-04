@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/ue5.PNG)
 
-Gute der Anpassung ACF:
+**Gute der Anpassung ACF Stationarität:**
 
 ![](../.gitbook/assets/acf.PNG)
 
@@ -45,10 +45,14 @@ plot.ts(wn2, ylab="")
 acf(wn2,20)
 
 
-#N=50 hat schlechtes ACF. Denn Es gibt die daten, die außerhalb 95% KI liegt
+#N=50 hat schlechtes ACF (nicht WN->nicht Stationär). Denn Es gibt die daten, die außerhalb 95% KI liegt
 
 
 ```
+
+**Auswirken Anzahl der Beobachtungen:**
+
+![](../.gitbook/assets/acf2.PNG)
 
 R file:
 

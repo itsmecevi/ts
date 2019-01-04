@@ -2,6 +2,14 @@
 
 ![](../.gitbook/assets/a6.PNG)
 
+**Gute der Anpassung ACF Stationarität:**
+
+![](../.gitbook/assets/acf.PNG)
+
+**Auswirken Anzahl der Beobachtungen:**
+
+![](../.gitbook/assets/acf2%20%281%29.PNG)
+
 ```r
 install.packages("astsa")  #installieren
 install.packages("quantmod") 
