@@ -1,6 +1,6 @@
 # blatt2\_aufgabe4
 
-![](../.gitbook/assets/a4.PNG)
+![](../.gitbook/assets/a4%20%281%29.PNG)
 
 ```r
 install.packages("quantmod")
