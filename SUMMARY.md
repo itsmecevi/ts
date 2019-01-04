@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Alle Rechte Vorbehalten](README.md)
+* [Zeitreihen und Prognosen 1:](zeitreihen-und-prognosen-1.md)
 * [1.a Einführung und Grundlagen](untitled.md)
 * [1.b Einführung und Grundlagen](1.b-einfuehrung-und-grundlagen.md)
 * [2. Klassische Zeitreihenanalyse](2.-klassische-zeitreihenanalyse.md)
@@ -19,4 +20,6 @@
   * [blatt3\_aufgabe4](untitled-2/blatt3_aufgabe4.md)
   * [blatt3\_aufgabe5](untitled-2/blatt3_aufgabe5.md)
   * [blatt3\_aufgabe6](untitled-2/blatt3_aufgabe6.md)
+* [Zeitreihen und Prognosen 2:](zeitreihen-und-prognosen-2.md)
+* [Untitled](untitled-3.md)
 
