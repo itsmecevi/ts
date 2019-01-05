@@ -20,6 +20,7 @@
   * [blatt3\_aufgabe4](untitled-2/blatt3_aufgabe4.md)
   * [blatt3\_aufgabe5](untitled-2/blatt3_aufgabe5.md)
   * [blatt3\_aufgabe6](untitled-2/blatt3_aufgabe6.md)
+  * [blatt4\_aufgabe5](untitled-2/blatt4_aufgabe5.md)
 * [Zeitreihen und Prognosen 2:](zeitreihen-und-prognosen-2.md)
 * [Untitled](untitled-3.md)
 
