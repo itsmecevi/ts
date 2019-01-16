@@ -141,5 +141,5 @@ sun.pr = predict(ols, n.ahead=5);
 sun.pr
 ```
 
-
+[Lösung: 4uebungsblatt\_5](https://trello.com/c/qOq1bLlA/37-4uebungsblatt5)
 
